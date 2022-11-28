@@ -1,7 +1,9 @@
 How will you design a REST API that allows you to create, update, delete a list of users and their information?
 
 a. Create the sample path and methods that will be created
+
 b. Consider the following info, name, address, mobile, date of birth
+
 c. How will you create the APIs?
 
 *create user: POST http://127.0.0.1:8000/user/
